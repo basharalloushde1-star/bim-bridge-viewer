@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+dist/
+
+# IDE Settings
+.vscode/
+.idea/
+.DS_Store
+thumbs.db
+
+# Local env files
+*.local
+*.log
+
+# Vite specific
+*.timestamp-*
